@@ -1,2 +1,4 @@
-# bargainhunt
+# BargainHunt
 Every sale in South Africa, one hunt. A single-page aggregator that routes you from department to brand straight to each retailer's live sale page.
+Bargainhunt is a aggregator of South Africa's leading retailer sale pages. Instead of hopping between Woolworths, Superbalist, Takealot, Cotton On and the rest to check what's on sale, users pick a department, pick a brand, and land directly on that retailer's live sale — Woolworths' Quality Sale, Superbalist's End of Season, Takealot's Daily Deals, and so on.
+The homepage is built around six departments (Women & Beauty, Men, Baby & Kids, Home & Décor, Tech & Appliances, Sport & Outdoor), each leading to a grid of the top brands in that category with a short deal line and a "Top Hunt" tag on the strongest current offer. A live search filter narrows brands and departments by name.
